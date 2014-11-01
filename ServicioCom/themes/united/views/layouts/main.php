@@ -17,6 +17,8 @@
 		->registerScriptFile( Yii::app()->theme->baseUrl . '/js/bootstrap-collapse.js', CClientScript::POS_END )
 		->registerScriptFile( Yii::app()->theme->baseUrl . '/js/bootstrap-carousel.js', CClientScript::POS_END )
 		->registerScriptFile( Yii::app()->theme->baseUrl . '/js/bootstrap-typeahead.js', CClientScript::POS_END )
+
+
 		
 ?>
 <!DOCTYPE html>
@@ -34,7 +36,10 @@
 <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/bootstrap-responsive.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/style.css" />
 <!-- Le fav and touch icons -->
-<link rel="icon" href="images/favicon.png">
+<link rel="icon" href="/images/favicon.png">
+
+<link rel="shortcut icon" href="<?php echo Yii::app()->request->baseUrl; ?>/images/escudo.png" type="image/x-icon" />
+
 </head>
 
 <body>

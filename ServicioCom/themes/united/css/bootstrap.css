@@ -6334,5 +6334,10 @@ a.badge:focus {
 
 .main {
   width: 100%;
+  height: auto;
   text-align: center;
+}
+
+.logo {
+  margin-top: -1%;
 }

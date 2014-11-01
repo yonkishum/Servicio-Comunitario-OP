@@ -1232,3 +1232,1136 @@ Stack trace:
 REQUEST_URI=/yii/basic/ServicioCom/site/images/escudo.png
 HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
 ---
+2014/11/01 13:58:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 13:58:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 13:58:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 13:59:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 13:59:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 13:59:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 13:59:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+---
+2014/11/01 13:59:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+---
+2014/11/01 13:59:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+---
+2014/11/01 14:00:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/page.html?view=about
+---
+2014/11/01 14:00:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 14:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/login.html
+---
+2014/11/01 14:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 14:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/escudo...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/img/escudo.png
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 17:56:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 17:56:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:01:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:05:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:06:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:06:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/fav...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/images/favicon.png
+---
+2014/11/01 18:06:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/fav...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/basic/ServicioCom/site/images/favicon.png
+---
+2014/11/01 18:10:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/page.html?view=about
+---
+2014/11/01 18:10:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/page.html?view=about
+---
+2014/11/01 18:10:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:10:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:10:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:10:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:11:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:11:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:13:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:14:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/login.html
+---
+2014/11/01 18:14:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:14:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/page.html?view=about
+---
+2014/11/01 18:14:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/page.html?view=about
+---
+2014/11/01 18:14:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/login.html
+---
+2014/11/01 18:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/login.html
+---
+2014/11/01 18:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/login.html
+---
+2014/11/01 18:14:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/login.html
+---
+2014/11/01 18:14:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/login.html
+---
+2014/11/01 18:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:16:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:19:14 [error] [php] htmlspecialchars() expects parameter 1 to be string, array given (C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php:103)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(158): renderAttributes()
+#1 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(465): tag()
+#2 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(500): button()
+#3 C:\xampp\htdocs\yii\basic\ServicioCom\protected\views\site\contact.php(78): submitButton()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(869): SiteController->renderFile()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#8 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(72): SiteController->render()
+#9 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#13 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#15 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/contact.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\views\site\contact.php (78)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\yii\basic\ServicioCom\index.php (13)
+2014/11/01 18:19:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:19:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:21:08 [error] [php] htmlspecialchars() expects parameter 1 to be string, array given (C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php:103)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(158): renderAttributes()
+#1 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(465): tag()
+#2 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(500): button()
+#3 C:\xampp\htdocs\yii\basic\ServicioCom\protected\views\site\contact.php(78): submitButton()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(869): SiteController->renderFile()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#8 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(72): SiteController->render()
+#9 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#13 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#15 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/contact.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\views\site\contact.php (78)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\yii\basic\ServicioCom\index.php (13)
+2014/11/01 18:23:30 [error] [php] htmlspecialchars(): charset `utf8' not supported, assuming utf-8 (C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php:103)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(158): renderAttributes()
+#1 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(339): tag()
+#2 C:\xampp\htdocs\yii\framework\web\widgets\CActiveForm.php(333): beginForm()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(147): CActiveForm->init()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(189): SiteController->createWidget()
+#5 C:\xampp\htdocs\yii\basic\ServicioCom\protected\views\site\contact.php(34): SiteController->beginWidget()
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(869): SiteController->renderFile()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#10 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(72): SiteController->render()
+#11 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#14 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#15 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#16 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#17 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/contact.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\yii\basic\ServicioCom\index.php (13)
+2014/11/01 18:23:42 [error] [php] htmlspecialchars() expects parameter 1 to be string, array given (C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php:103)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(158): renderAttributes()
+#1 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(465): tag()
+#2 C:\xampp\htdocs\yii\framework\web\helpers\CHtml.php(500): button()
+#3 C:\xampp\htdocs\yii\basic\ServicioCom\protected\views\site\contact.php(78): submitButton()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(869): SiteController->renderFile()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#8 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(72): SiteController->render()
+#9 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#13 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#15 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/contact.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\views\site\contact.php (78)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\yii\basic\ServicioCom\index.php (13)
+2014/11/01 18:24:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:24:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/contact.html
+---
+2014/11/01 18:24:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:25:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:25:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:56:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:56:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:56:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:56:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:56:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:56:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:57:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:57:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 18:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:00:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:00:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:00:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:03:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:03:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:03:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:03:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:04:52 [error] [php] Undefined variable: baseUrl (C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php:21)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(300): SiteController->endWidget()
+#5 C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php(9): SiteController->endContent()
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(784): SiteController->renderFile()
+#9 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#15 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/index.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php (21)
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php (9)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (32)
+2014/11/01 19:05:12 [error] [php] Undefined variable: baseUrl (C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php:21)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(300): SiteController->endWidget()
+#5 C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php(9): SiteController->endContent()
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(784): SiteController->renderFile()
+#9 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#15 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/index.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php (21)
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php (9)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (32)
+2014/11/01 19:05:14 [error] [php] Undefined variable: baseUrl (C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php:21)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(300): SiteController->endWidget()
+#5 C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php(9): SiteController->endContent()
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(784): SiteController->renderFile()
+#9 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#15 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/index.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php (21)
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php (9)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (32)
+2014/11/01 19:05:28 [error] [php] Undefined variable: baseUrl (C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php:21)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(300): SiteController->endWidget()
+#5 C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php(9): SiteController->endContent()
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(784): SiteController->renderFile()
+#9 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#15 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/index.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php (21)
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php (9)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (32)
+2014/11/01 19:05:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:05:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:06:36 [error] [php] Undefined variable: baseUrl (C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php:45)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(300): SiteController->endWidget()
+#5 C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php(9): SiteController->endContent()
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(784): SiteController->renderFile()
+#9 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#15 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/index.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php (45)
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php (9)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (32)
+2014/11/01 19:06:56 [error] [php] Undefined variable: baseUrl (C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php:44)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(300): SiteController->endWidget()
+#5 C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php(9): SiteController->endContent()
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(784): SiteController->renderFile()
+#9 C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(286): SiteController->runAction()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#15 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/basic/ServicioCom/site/index.html
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\main.php (44)
+in C:\xampp\htdocs\yii\basic\ServicioCom\themes\united\views\layouts\column1.php (9)
+in C:\xampp\htdocs\yii\basic\ServicioCom\protected\controllers\SiteController.php (32)
+2014/11/01 19:07:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:07:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:09:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:09:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:10:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:10:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:10:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
+2014/11/01 19:10:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/united/css/style.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/united/c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\basic\ServicioCom\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/basic/ServicioCom/themes/united/css/style.css
+HTTP_REFERER=http://localhost/yii/basic/ServicioCom/site/index.html
+---
